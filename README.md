@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathan511" alt="kathan511" /></a> </p>
 
-- 🌱 I’m currently learning **MLOps, Deep learning, Django, Digital Marketing**
+- 🌱 I’m currently learning **Data Science, AI Automation/Workflow creation**
 
 - 📝 I regularly write articles on [https://dragonforest.in/](https://dragonforest.in/)
 
